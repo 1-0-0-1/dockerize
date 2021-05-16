@@ -1,0 +1,7 @@
+.idea/
+/storage/
+/src/vendor/
+/src/.phpcs-cache
+*.iml
+.env
+
